@@ -1,0 +1,7 @@
+venv/
+jarvis_env/
+__pycache__/
+*.pyc
+.env
+data/
+credentials/
