@@ -164,23 +164,11 @@ Jarvis, lower the brightness
 
 ---
 
-# 📷 Screenshots
 
-> Add screenshots of the GUI here after uploading them.
-
-```
-screenshots/
-├── home.png
-├── listening.png
-├── reminder.png
-└── chat.png
-```
-
----
 
 # 👨‍💻 Author
 
-## **Atif Asim**
+## **Muhammad Atif**
 
 **Computer Science Student**
 
